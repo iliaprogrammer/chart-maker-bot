@@ -34,13 +34,14 @@ Run the bot with:
 python main.py
 ```
 
-After starting the bot, use `/rasm` and follow the instructions to create a chart.
+After starting the bot, use `/start` and follow the instructions to create a chart.
 
 ## Project Structure
 
 ```text
 .
 ├── main.py
+├── main_persian.py --> translated texts
 ├── requirements.txt
 ├── README.md
 ```
